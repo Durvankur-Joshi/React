@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "course": "Computer Engineering",
+    "year": "2nd Year",
+    "email": "aarav.sharma@example.com",
+    "city": "Pune"
+  },
+  {
+    "id": 2,
+    "name": "Sneha Patil",
+    "age": 19,
+    "course": "Information Technology",
+    "year": "1st Year",
+    "email": "sneha.patil@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "age": 21,
+    "course": "Electronics Engineering",
+    "year": "3rd Year",
+    "email": "rohan.mehta@example.com",
+    "city": "Nagpur"
+  },
+  {
+    "id": 4,
+    "name": "Priya Deshmukh",
+    "age": 22,
+    "course": "Mechanical Engineering",
+    "year": "Final Year",
+    "email": "priya.deshmukh@example.com",
+    "city": "Nashik"
+  },
+  {
+    "id": 5,
+    "name": "Karan Joshi",
+    "age": 20,
+    "course": "Civil Engineering",
+    "year": "2nd Year",
+    "email": "karan.joshi@example.com",
+    "city": "Aurangabad"
+  },
+  {
+    "id": 6,
+    "name": "Ananya Gupta",
+    "age": 19,
+    "course": "Computer Engineering",
+    "year": "1st Year",
+    "email": "ananya.gupta@example.com",
+    "city": "Kolhapur"
+  },
+  {
+    "id": 7,
+    "name": "Rajat More",
+    "age": 21,
+    "course": "Electrical Engineering",
+    "year": "3rd Year",
+    "email": "rajat.more@example.com",
+    "city": "Thane"
+  },
+  {
+    "id": 8,
+    "name": "Ishita Kulkarni",
+    "age": 20,
+    "course": "Information Technology",
+    "year": "2nd Year",
+    "email": "ishita.kulkarni@example.com",
+    "city": "Pune"
+  },
+  {
+    "id": 9,
+    "name": "Aditya Sawant",
+    "age": 22,
+    "course": "Mechanical Engineering",
+    "year": "Final Year",
+    "email": "aditya.sawant@example.com",
+    "city": "Mumbai"
+  },
+  {
+    "id": 10,
+    "name": "Mitali Naik",
+    "age": 21,
+    "course": "Civil Engineering",
+    "year": "3rd Year",
+    "email": "mitali.naik@example.com",
+    "city": "Nagpur"
+  }
+]
