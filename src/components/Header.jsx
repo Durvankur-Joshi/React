@@ -13,16 +13,7 @@ function Header() {
            <Link to ="/props">Props</Link>
         </li>
         <li>
-          <a href="#">React Hooks</a>
-        </li>
-        <li>
-          <a href="#">Routing</a>
-        </li>
-        <li>
-          <a href="#">State Management</a>
-        </li>
-        <li>
-          <a href="#">API Intergration</a>
+          <Link to= "/practiceproject">Practice Project</Link>
         </li>
         </ul>
       </nav>
