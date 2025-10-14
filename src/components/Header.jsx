@@ -15,6 +15,9 @@ function Header() {
         <li>
           <Link to= "/practiceproject">Practice Project</Link>
         </li>
+        <li>
+          <Link to= "/addstudent">Add Student</Link>
+        </li>
         </ul>
       </nav>
     </header>
