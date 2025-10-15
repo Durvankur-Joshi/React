@@ -18,6 +18,10 @@ function Header() {
         <li>
           <Link to= "/addstudent">Add Student</Link>
         </li>
+        <li>
+          <Link to= "/onchange">On Change</Link>
+        </li>
+
         </ul>
       </nav>
     </header>
