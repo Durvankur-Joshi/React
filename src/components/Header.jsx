@@ -21,7 +21,9 @@ function Header() {
         <li>
           <Link to= "/onchange">On Change</Link>
         </li>
-
+        <li>
+          <Link to= "/task">Task</Link>
+        </li>
         </ul>
       </nav>
     </header>

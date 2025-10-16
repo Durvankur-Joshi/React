@@ -6,6 +6,7 @@ import { BrowserRouter as Router , Routes, Route , Link } from "react-router-dom
 import PracticeProject from './pages/PracticeProject';
 import AddStudent from './pages/AddStudent';
 import OnChange from './pages/OnChange';
+import TaskPage from './pages/TaskPage';
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
            <Route path="/practiceproject" element={<PracticeProject />} />
            <Route path="/addstudent" element={<AddStudent />} />
            <Route path="/onchange" element={<OnChange />} />
+           <Route path="/task" element={<TaskPage />} />
         </Routes>
       </Router>
     </>
