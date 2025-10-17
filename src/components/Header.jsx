@@ -24,6 +24,9 @@ function Header() {
         <li>
           <Link to= "/task">Task</Link>
         </li>
+        <li>
+          <Link to ="/colorpicker"> Color Picker</Link>
+        </li>
         </ul>
       </nav>
     </header>

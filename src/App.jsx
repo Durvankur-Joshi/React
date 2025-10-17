@@ -7,6 +7,7 @@ import PracticeProject from './pages/PracticeProject';
 import AddStudent from './pages/AddStudent';
 import OnChange from './pages/OnChange';
 import TaskPage from './pages/TaskPage';
+import ColorPicker from './ColorPicker/ColorPicker';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
            <Route path="/addstudent" element={<AddStudent />} />
            <Route path="/onchange" element={<OnChange />} />
            <Route path="/task" element={<TaskPage />} />
+           <Route path="/colorpicker" element={<ColorPicker/>}/>
         </Routes>
       </Router>
     </>
