@@ -30,6 +30,9 @@ function Header() {
         <li>
           <Link to="/colck">Clock App</Link>
         </li>
+        <li>
+          <Link to="/theme"> Theme Project</Link>
+        </li>
         </ul>
       </nav>
     </header>
