@@ -27,6 +27,9 @@ function Header() {
         <li>
           <Link to ="/colorpicker"> Color Picker</Link>
         </li>
+        <li>
+          <Link to="/colck">Clock App</Link>
+        </li>
         </ul>
       </nav>
     </header>
