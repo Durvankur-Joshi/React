@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { ThemeContext } from "./Theme";
 
-function Content()
+function Content ()
 {
     const{Theme , toggleTheme} = useContext(ThemeContext);
     return(
