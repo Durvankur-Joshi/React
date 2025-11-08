@@ -1,4 +1,4 @@
-import Content from "../Context/contnet";
+import Content from "../Context/Content";
 import ThemeProvider from "../Context/Theme";
 
 function Context()
