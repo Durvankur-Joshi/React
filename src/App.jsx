@@ -9,7 +9,6 @@ import OnChange from './pages/OnChange';
 import TaskPage from './pages/TaskPage';
 import ColorPicker from './ColorPicker/ColorPicker';
 import Clock from './LiveClock/Clock';
-// import Context from './pages/Context';
 import UseRef from './pages/UseRef';
 
 function App() {
@@ -27,7 +26,6 @@ function App() {
            <Route path="/task" element={<TaskPage />} />
            <Route path="/colorpicker" element={<ColorPicker/>}/>
            <Route path='/colck' element={<Clock />} />
-           {/* <Route path="/theme" element = {<Context />}/> */}
            <Route path="/useref" element = {<UseRef/>} />
         </Routes>
       </Router>
